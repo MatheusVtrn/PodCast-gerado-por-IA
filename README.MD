@@ -1,4 +1,17 @@
+<p align="center">
+<img 
+    src="./Img/imagePodcast1.jpg"
+    width="300"
+/>
+</p>
 
+<p align="center">
+    preview do podcast
+</p>
+
+<div align="center">
+    <audio src="output/PodCasFinal.mp3" controls title="Podcast editado"></audio>
+</div>
 
 # Projeto Podcast Gerado por I.A.s
 
