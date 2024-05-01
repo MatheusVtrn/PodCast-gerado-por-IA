@@ -8,9 +8,12 @@
 <p align="center">
     preview do podcast
 </p>
-
+<audio controls>
+  <source src="./output/PodCasFinal.mp3" type="audio/mp3">
+  
+</audio>
 <div align="center">
-    <audio src="output/PodCasFinal.mp3" controls title="Podcast editado"></audio>
+    <audio src="./output/PodCasFinal.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
